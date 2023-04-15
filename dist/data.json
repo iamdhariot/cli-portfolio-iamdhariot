@@ -1,10 +1,11 @@
 {
-  "fullName": "",
-  "age": "",
-  "hobbies": [],
-  "githubProfile": "",
-  "twitterProfile": "",
-  "youtubeChannel": "",
-  "blog": "",
-  "emailId": ""
+    "fullName": "Dharmendra Gameti",
+    "age": "25",
+    "hobbies": ["Coding", "Photography", "Sketching"],
+    "githubProfile": "https://github.com/iamdhariot",
+    "twitterProfile": "https://twitter.com/iamdhariot",
+    "leetCodeProfile": "https://leetcode.com/iamdhariot",
+    "blog": "https://iamdhariot.medium.com/",
+    "stackoverflow": "https://stackoverflow.com/users/10461073/iamdhariot",
+    "emailId": "iamdhariot@gmail.com"
 }

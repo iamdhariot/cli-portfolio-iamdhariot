@@ -8,7 +8,7 @@ const cli = meow(`
 	This CLI Portfolio was built with this template - https://github.com/AnishDe12020/cli-portfolio-template
 
 	Usage
-	  $ <your_name_here>
+	  $ iamdhariot
 
 	Prints out details about me.
 `);
